@@ -1,0 +1,11 @@
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe.config
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\bin\Debug\Calculate.exe
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\bin\Debug\Calculate.pdb
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.AssemblyReference.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.SuggestedBindingRedirects.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.Form1.resources
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.Properties.Resources.resources
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.GenerateResource.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.csproj.CoreCompileInputs.cache
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.exe
+C:\Users\307-Öğlen-Yazılım\source\repos\Calculate\Calculate\obj\Debug\Calculate.pdb
